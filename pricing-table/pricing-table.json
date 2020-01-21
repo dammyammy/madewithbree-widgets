@@ -1,0 +1,92 @@
+{
+  "plans": [
+      {
+        "title": "lite",
+        "price": 300,
+        "currency": "£",
+        "color": "",
+        "url": "#"
+      },
+      {
+        "title": "business",
+        "price": 700,
+        "currency": "£",
+        "color": "is-primary",
+        "url": "#"
+      },
+      {
+        "title": "premium",
+        "price": 1200,
+        "currency": "£",
+        "color": "is-danger",
+        "url": "#"
+      }
+    ],
+    "features": [
+      {
+        "title": "Platform Core",
+        "items": [
+          {
+            "title": "Websites",
+            "description": "Tooltip with a long Text. So we use has-tooltip-multiline modifier to force multiline display.",
+            "features": {
+              "lite": false,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Funnels",
+            "description": null,
+            "features": {
+              "lite": 1,
+              "business": 1,
+              "premium": 2
+            }
+          },
+          {
+            "title": "Annual Hosting and maintenance",
+            "description": null,
+            "features": {
+              "lite": "£199",
+              "business": "£249",
+              "premium": "£349"
+            }
+          }
+        ]
+      },
+
+      {
+        "title": "Funnel",
+        "items": [
+          {
+            "title": "Websites",
+            "description": "Tooltip with a long Text. So we use has-tooltip-multiline modifier to force multiline display.",
+            "features": {
+              "lite": false,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Funnels",
+            "description": null,
+            "features": {
+              "lite": 1,
+              "business": 1,
+              "premium": 2
+            }
+          },
+          {
+            "title": "Annual Hosting and maintenance",
+            "description": null,
+            "features": {
+              "lite": "£199",
+              "business": "£249",
+              "premium": "£349"
+            }
+          }
+        ]
+      }
+    ]
+}
