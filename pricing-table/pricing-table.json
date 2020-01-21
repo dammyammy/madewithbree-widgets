@@ -2,7 +2,11 @@
   "plans": [
       {
         "title": "lite",
-        "price": 300,
+        "price": {
+          "monthly": 30,
+          "yearly": 300,
+          "yearly_savings": 60
+        },
         "currency": "£",
         "color": "is-lite",
         "url": "#",
@@ -10,15 +14,24 @@
       },
       {
         "title": "business",
-        "price": 700,
+        "price": {
+          "monthly": 70,
+          "yearly": 700,
+          "yearly_savings": 140
+        },
         "currency": "£",
         "color": "is-business",
         "url": "#",
-        "button": "Choose Plan"
+        "button": "Choose Plan",
+        "popular": true
       },
       {
         "title": "premium",
-        "price": 1200,
+        "price": {
+          "monthly": 120,
+          "yearly": 1200,
+          "yearly_savings": 240
+        },
         "currency": "£",
         "color": "is-premium",
         "url": "#",
