@@ -144,8 +144,9 @@
               "lite": "2",
               "business": "10",
               "premium": "Unlimited"
-            },
-            {
+            }
+          },
+          {
             "title": "Annual Hosting and maintenance",
             "description": null,
             "features": {
@@ -204,7 +205,7 @@
               "business": true,
               "premium": true
             }
-          },
+          }
         ]
       },
       
@@ -233,9 +234,9 @@
             "title": "Transaction Fees",
             "description": null,
             "features": {
-              "lite": '0%',
-              "business": '0%',
-              "premium": '0%'
+              "lite": "0%",
+              "business": "0%",
+              "premium": "0%"
             }
           },
           {
