@@ -22,7 +22,7 @@
         "currency": "£",
         "color": "is-danger",
         "url": "#",
-        "button": "#"
+        "button": "Choose"
       }
     ],
     "features": [
@@ -39,6 +39,15 @@
             }
           },
           {
+            "title": "Online Store",
+            "description": null,
+            "features": {
+              "lite": true,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
             "title": "Funnels",
             "description": null,
             "features": {
@@ -48,6 +57,95 @@
             }
           },
           {
+            "title": "Domain Connections",
+            "description": null,
+            "features": {
+              "lite": 1,
+              "business": 2,
+              "premium": 3
+            }
+          },
+           {
+            "title": "Unlimited Pages",
+            "description": null,
+            "features": {
+              "lite": true,
+              "business": true,
+              "premium": true
+            }
+          },
+           {
+            "title": "SSL Security",
+            "description": null,
+            "features": {
+              "lite": true,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "CRM",
+            "description": null,
+            "features": {
+              "lite": true,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Website Analytics",
+            "description": null,
+            "features": {
+              "lite": true,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Blog Sites",
+            "description": null,
+            "features": {
+              "lite": false,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Portfolio Showcase",
+            "description": null,
+            "features": {
+              "lite": false,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Free Custom Domain*",
+            "description": null,
+            "features": {
+              "lite": true,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Complete Customization with CSS and JavaScript",
+            "description": null,
+            "features": {
+              "lite": false,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Contributors",
+            "description": null,
+            "features": {
+              "lite": "2",
+              "business": "10",
+              "premium": "Unlimited"
+            },
+            {
             "title": "Annual Hosting and maintenance",
             "description": null,
             "features": {
@@ -63,16 +161,16 @@
         "title": "Funnel",
         "items": [
           {
-            "title": "Websites",
+            "title": "A/B Testing",
             "description": "Tooltip with a long Text. So we use has-tooltip-multiline modifier to force multiline display.",
             "features": {
-              "lite": false,
+              "lite": true,
               "business": true,
               "premium": true
             }
           },
           {
-            "title": "Funnels",
+            "title": "Funnel Analytics",
             "description": null,
             "features": {
               "lite": 1,
@@ -81,15 +179,235 @@
             }
           },
           {
-            "title": "Annual Hosting and maintenance",
+            "title": "Funnel Checkouts",
             "description": null,
             "features": {
-              "lite": "£199",
-              "business": "£249",
-              "premium": "£349"
+              "lite": true,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Bump Offers",
+            "description": null,
+            "features": {
+              "lite": true,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "1-Click Upsells & Downsells",
+            "description": null,
+            "features": {
+              "lite": true,
+              "business": true,
+              "premium": true
+            }
+          },
+        ]
+      },
+      
+      {
+        "title": "E-COMMERCE",
+        "items": [
+          {
+            "title": "Fully Integrated E-Commerce Solution",
+            "description": "Tooltip with a long Text. So we use has-tooltip-multiline modifier to force multiline display.",
+            "features": {
+              "lite": true,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Sell Unlimited Products",
+            "description": null,
+            "features": {
+              "lite": true,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Transaction Fees",
+            "description": null,
+            "features": {
+              "lite": '0%',
+              "business": '0%',
+              "premium": '0%'
+            }
+          },
+          {
+            "title": "Powerful E-Commerce Analytics",
+            "description": null,
+            "features": {
+              "lite": true,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Sale Countdown",
+            "description": null,
+            "features": {
+              "lite": true,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Customer Account",
+            "description": null,
+            "features": {
+              "lite": false,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Gift Cards",
+            "description": null,
+            "features": {
+              "lite": false,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Sell Subscriptions",
+            "description": null,
+            "features": {
+              "lite": false,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Advanced Discounts",
+            "description": null,
+            "features": {
+              "lite": false,
+              "business": true,
+              "premium": true
             }
           }
         ]
       }
+      
+      {
+        "title": "DONE FOR YOU SERVICE",
+        "items": [
+          {
+            "title": "Professional Designed Pages",
+            "description": "Tooltip with a long Text. So we use has-tooltip-multiline modifier to force multiline display.",
+            "features": {
+              "lite": null,
+              "business": 5,
+              "premium": 20
+            }
+          },
+          {
+            "title": "Platform Configuration",
+            "description": null,
+            "features": {
+              "lite": true,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Responsive design for Mobile, Tablet & Desktop",
+            "description": null,
+            "features": {
+              "lite": true,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Payment configuration",
+            "description": null,
+            "features": {
+              "lite": true,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Store Configuration",
+            "description": null,
+            "features": {
+              "lite": true,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Google Analytics Integration",
+            "description": null,
+            "features": {
+              "lite": true,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Email Markeing Integration",
+            "description": null,
+            "features": {
+              "lite": true,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Facebook Pixel",
+            "description": null,
+            "features": {
+              "lite": true,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Whatsapp Widget or Live Chat Configration",
+            "description": null,
+            "features": {
+              "lite": false,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Basic SEO for Site Visibility",
+            "description": null,
+            "features": {
+              "lite": false,
+              "business": true,
+              "premium": true
+            }
+          },
+          {
+            "title": "Wall Of Love",
+            "description": null,
+            "features": {
+              "lite": false,
+              "business": false,
+              "premium": true
+            }
+          },
+          {
+            "title": "One Week Social Marketing",
+            "description": null,
+            "features": {
+              "lite": false,
+              "business": false,
+              "premium": true
+            }
+          }
+        ]
+      }
+     
     ]
 }
