@@ -3,39 +3,27 @@
       {
         "title": "lite",
         "price": {
-          "monthly": 30,
-          "yearly": 300,
-          "yearly_savings": 60
+          "yearly": 300
         },
         "currency": "£",
-        "color": "is-lite",
-        "url": "#",
-        "button": "Choose Plan"
+        "color": "is-lite"
       },
       {
         "title": "business",
         "price": {
-          "monthly": 70,
-          "yearly": 700,
-          "yearly_savings": 140
+          "yearly": 700
         },
         "currency": "£",
         "color": "is-business",
-        "url": "#",
-        "button": "Choose Plan",
         "popular": true
       },
       {
         "title": "premium",
         "price": {
-          "monthly": 120,
-          "yearly": 1200,
-          "yearly_savings": 240
+          "yearly": 1200
         },
         "currency": "£",
-        "color": "is-premium",
-        "url": "#",
-        "button": "Choose Plan"
+        "color": "is-premium"
       }
     ],
     "features": [
@@ -53,7 +41,7 @@
           },
           {
             "title": "Online Store",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": true,
               "business": true,
@@ -62,7 +50,7 @@
           },
           {
             "title": "Funnels",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": 1,
               "business": 1,
@@ -71,7 +59,7 @@
           },
           {
             "title": "Domain Connections",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": 1,
               "business": 2,
@@ -80,7 +68,7 @@
           },
            {
             "title": "Unlimited Pages",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": true,
               "business": true,
@@ -89,7 +77,7 @@
           },
            {
             "title": "SSL Security",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": true,
               "business": true,
@@ -98,7 +86,7 @@
           },
           {
             "title": "CRM",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": true,
               "business": true,
@@ -107,7 +95,7 @@
           },
           {
             "title": "Website Analytics",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": true,
               "business": true,
@@ -116,7 +104,7 @@
           },
           {
             "title": "Blog Sites",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": false,
               "business": true,
@@ -125,7 +113,7 @@
           },
           {
             "title": "Portfolio Showcase",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": false,
               "business": true,
@@ -134,7 +122,7 @@
           },
           {
             "title": "Free Custom Domain*",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": true,
               "business": true,
@@ -143,7 +131,7 @@
           },
           {
             "title": "Complete Customization with CSS and JavaScript",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": false,
               "business": true,
@@ -152,7 +140,7 @@
           },
           {
             "title": "Contributors",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": "2",
               "business": "10",
@@ -161,7 +149,7 @@
           },
           {
             "title": "Annual Hosting and maintenance",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": "£199",
               "business": "£249",
@@ -185,7 +173,7 @@
           },
           {
             "title": "Funnel Analytics",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": 1,
               "business": 1,
@@ -194,7 +182,7 @@
           },
           {
             "title": "Funnel Checkouts",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": true,
               "business": true,
@@ -203,7 +191,7 @@
           },
           {
             "title": "Bump Offers",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": true,
               "business": true,
@@ -212,7 +200,7 @@
           },
           {
             "title": "1-Click Upsells & Downsells",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": true,
               "business": true,
@@ -236,7 +224,7 @@
           },
           {
             "title": "Sell Unlimited Products",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": true,
               "business": true,
@@ -245,7 +233,7 @@
           },
           {
             "title": "Transaction Fees",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": "0%",
               "business": "0%",
@@ -254,7 +242,7 @@
           },
           {
             "title": "Powerful E-Commerce Analytics",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": true,
               "business": true,
@@ -263,7 +251,7 @@
           },
           {
             "title": "Sale Countdown",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": true,
               "business": true,
@@ -272,7 +260,7 @@
           },
           {
             "title": "Customer Account",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": false,
               "business": true,
@@ -281,7 +269,7 @@
           },
           {
             "title": "Gift Cards",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": false,
               "business": true,
@@ -290,7 +278,7 @@
           },
           {
             "title": "Sell Subscriptions",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": false,
               "business": true,
@@ -299,7 +287,7 @@
           },
           {
             "title": "Advanced Discounts",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": false,
               "business": true,
@@ -322,7 +310,7 @@
           },
           {
             "title": "Platform Configuration",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": true,
               "business": true,
@@ -331,7 +319,7 @@
           },
           {
             "title": "Responsive design for Mobile, Tablet & Desktop",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": true,
               "business": true,
@@ -340,7 +328,7 @@
           },
           {
             "title": "Payment configuration",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": true,
               "business": true,
@@ -349,7 +337,7 @@
           },
           {
             "title": "Store Configuration",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": true,
               "business": true,
@@ -358,7 +346,7 @@
           },
           {
             "title": "Google Analytics Integration",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": true,
               "business": true,
@@ -367,7 +355,7 @@
           },
           {
             "title": "Email Markeing Integration",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": true,
               "business": true,
@@ -376,7 +364,7 @@
           },
           {
             "title": "Facebook Pixel",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": true,
               "business": true,
@@ -385,7 +373,7 @@
           },
           {
             "title": "Whatsapp Widget or Live Chat Configration",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": false,
               "business": true,
@@ -394,7 +382,7 @@
           },
           {
             "title": "Basic SEO for Site Visibility",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": false,
               "business": true,
@@ -403,7 +391,7 @@
           },
           {
             "title": "Wall Of Love",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": false,
               "business": false,
@@ -412,7 +400,7 @@
           },
           {
             "title": "One Week Social Marketing",
-            "description": null,
+            "description": 'tooltip',
             "features": {
               "lite": false,
               "business": false,
