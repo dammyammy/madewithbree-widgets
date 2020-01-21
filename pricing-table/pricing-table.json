@@ -4,25 +4,25 @@
         "title": "lite",
         "price": 300,
         "currency": "£",
-        "color": "",
+        "color": "is-lite",
         "url": "#",
-        "button": "Choose"
+        "button": "Choose Plan"
       },
       {
         "title": "business",
         "price": 700,
         "currency": "£",
-        "color": "is-primary",
+        "color": "is-business",
         "url": "#",
-        "button": "Choose"
+        "button": "Choose Plan"
       },
       {
         "title": "premium",
         "price": 1200,
         "currency": "£",
-        "color": "is-danger",
+        "color": "is-premium",
         "url": "#",
-        "button": "Choose"
+        "button": "Choose Plan"
       }
     ],
     "features": [
