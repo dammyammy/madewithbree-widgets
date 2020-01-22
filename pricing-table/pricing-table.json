@@ -26,14 +26,14 @@
          "color":"is-premium"
       }
    ],
-   "features":[
+   "sections":[
       {
          "title":"Platform Core",
-         "items":[
+         "features":[
             {
                "title":"Websites",
                "description":"Tooltip with a long Text. So we use has-tooltip-multiline modifier to force multiline display.",
-               "features":{
+               "items":{
                   "lite":false,
                   "business":true,
                   "premium":true
@@ -42,7 +42,7 @@
             {
                "title":"Online Store",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":true,
                   "business":true,
                   "premium":true
@@ -51,7 +51,7 @@
             {
                "title":"Funnels",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":1,
                   "business":1,
                   "premium":2
@@ -60,7 +60,7 @@
             {
                "title":"Domain Connections",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":1,
                   "business":2,
                   "premium":3
@@ -69,7 +69,7 @@
             {
                "title":"Unlimited Pages",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":true,
                   "business":true,
                   "premium":true
@@ -78,7 +78,7 @@
             {
                "title":"SSL Security",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":true,
                   "business":true,
                   "premium":true
@@ -87,7 +87,7 @@
             {
                "title":"CRM",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":true,
                   "business":true,
                   "premium":true
@@ -96,7 +96,7 @@
             {
                "title":"Website Analytics",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":true,
                   "business":true,
                   "premium":true
@@ -105,7 +105,7 @@
             {
                "title":"Blog Sites",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":false,
                   "business":true,
                   "premium":true
@@ -114,7 +114,7 @@
             {
                "title":"Portfolio Showcase",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":false,
                   "business":true,
                   "premium":true
@@ -123,7 +123,7 @@
             {
                "title":"Free Custom Domain*",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":true,
                   "business":true,
                   "premium":true
@@ -132,7 +132,7 @@
             {
                "title":"Complete Customization with CSS and JavaScript",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":false,
                   "business":true,
                   "premium":true
@@ -141,7 +141,7 @@
             {
                "title":"Contributors",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":"2",
                   "business":"10",
                   "premium":"Unlimited"
@@ -150,7 +150,7 @@
             {
                "title":"Annual Hosting and maintenance",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":"£199",
                   "business":"£249",
                   "premium":"£349"
@@ -160,11 +160,11 @@
       },
       {
          "title":"Funnel",
-         "items":[
+         "features":[
             {
                "title":"A/B Testing",
                "description":"Tooltip with a long Text. So we use has-tooltip-multiline modifier to force multiline display.",
-               "features":{
+               "items":{
                   "lite":true,
                   "business":true,
                   "premium":true
@@ -173,7 +173,7 @@
             {
                "title":"Funnel Analytics",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":1,
                   "business":1,
                   "premium":2
@@ -182,7 +182,7 @@
             {
                "title":"Funnel Checkouts",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":true,
                   "business":true,
                   "premium":true
@@ -191,7 +191,7 @@
             {
                "title":"Bump Offers",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":true,
                   "business":true,
                   "premium":true
@@ -200,7 +200,7 @@
             {
                "title":"1-Click Upsells & Downsells",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":true,
                   "business":true,
                   "premium":true
@@ -210,11 +210,11 @@
       },
       {
          "title":"E-COMMERCE",
-         "items":[
+         "features":[
             {
                "title":"Fully Integrated E-Commerce Solution",
                "description":"Tooltip with a long Text. So we use has-tooltip-multiline modifier to force multiline display.",
-               "features":{
+               "items":{
                   "lite":true,
                   "business":true,
                   "premium":true
@@ -223,7 +223,7 @@
             {
                "title":"Sell Unlimited Products",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":true,
                   "business":true,
                   "premium":true
@@ -232,7 +232,7 @@
             {
                "title":"Transaction Fees",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":"0%",
                   "business":"0%",
                   "premium":"0%"
@@ -241,7 +241,7 @@
             {
                "title":"Powerful E-Commerce Analytics",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":true,
                   "business":true,
                   "premium":true
@@ -250,7 +250,7 @@
             {
                "title":"Sale Countdown",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":true,
                   "business":true,
                   "premium":true
@@ -259,7 +259,7 @@
             {
                "title":"Customer Account",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":false,
                   "business":true,
                   "premium":true
@@ -268,7 +268,7 @@
             {
                "title":"Gift Cards",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":false,
                   "business":true,
                   "premium":true
@@ -277,7 +277,7 @@
             {
                "title":"Sell Subscriptions",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":false,
                   "business":true,
                   "premium":true
@@ -286,7 +286,7 @@
             {
                "title":"Advanced Discounts",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":false,
                   "business":true,
                   "premium":true
@@ -296,11 +296,11 @@
       },
       {
          "title":"DONE FOR YOU SERVICE",
-         "items":[
+         "features":[
             {
                "title":"Professional Designed Pages",
                "description":"Tooltip with a long Text. So we use has-tooltip-multiline modifier to force multiline display.",
-               "features":{
+               "items":{
                   "lite":null,
                   "business":5,
                   "premium":20
@@ -309,7 +309,7 @@
             {
                "title":"Platform Configuration",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":true,
                   "business":true,
                   "premium":true
@@ -318,7 +318,7 @@
             {
                "title":"Responsive design for Mobile, Tablet & Desktop",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":true,
                   "business":true,
                   "premium":true
@@ -336,7 +336,7 @@
             {
                "title":"Store Configuration",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":true,
                   "business":true,
                   "premium":true
@@ -354,7 +354,7 @@
             {
                "title":"Email Markeing Integration",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":true,
                   "business":true,
                   "premium":true
@@ -363,7 +363,7 @@
             {
                "title":"Facebook Pixel",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":true,
                   "business":true,
                   "premium":true
@@ -372,7 +372,7 @@
             {
                "title":"Whatsapp Widget or Live Chat Configration",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":false,
                   "business":true,
                   "premium":true
@@ -381,7 +381,7 @@
             {
                "title":"Basic SEO for Site Visibility",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":false,
                   "business":true,
                   "premium":true
@@ -390,7 +390,7 @@
             {
                "title":"Wall Of Love",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":false,
                   "business":false,
                   "premium":true
@@ -399,7 +399,7 @@
             {
                "title":"One Week Social Marketing",
                "description":"tooltip",
-               "features":{
+               "items":{
                   "lite":false,
                   "business":false,
                   "premium":true
